@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/darik/Desktop/1project/eventManager/build/cmake_install.cmake",
+		"/Users/darik/Desktop/1project/eventManager/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

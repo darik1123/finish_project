@@ -1,0 +1,9 @@
+/Users/darik/Desktop/1project/eventManager/build/CMakeFiles/event_lib.dir
+/Users/darik/Desktop/1project/eventManager/build/CMakeFiles/event_manager.dir
+/Users/darik/Desktop/1project/eventManager/build/CMakeFiles/test.dir
+/Users/darik/Desktop/1project/eventManager/build/CMakeFiles/edit_cache.dir
+/Users/darik/Desktop/1project/eventManager/build/CMakeFiles/rebuild_cache.dir
+/Users/darik/Desktop/1project/eventManager/build/tests/CMakeFiles/run_tests.dir
+/Users/darik/Desktop/1project/eventManager/build/tests/CMakeFiles/test.dir
+/Users/darik/Desktop/1project/eventManager/build/tests/CMakeFiles/edit_cache.dir
+/Users/darik/Desktop/1project/eventManager/build/tests/CMakeFiles/rebuild_cache.dir
